@@ -47,7 +47,7 @@ const Footer = () => {
           </h3>
           <p className="text-sm">Email: support@healthcare.com</p>
           <p className="text-sm mt-1">Phone: +91 98765 43210</p>
-          <p className="text-sm mt-1">Location: Kochi, Kerala</p>
+          <p className="text-sm mt-1">Location: Pune, Maharashtra</p>
         </div>
 
       </div>

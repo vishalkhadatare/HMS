@@ -59,7 +59,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git@github.com:dinshasivan/_hospital_appointment_booking.git
+    git clone https://github.com/vishalkhadatare/HMS.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -166,7 +166,7 @@ POST/api/auth/registe
   "specialization": "Cardiology",
   "experience": 10,
   "phone": "9876543210",
-  "address": "Kochi, Kerala",
+  "address": "Pune, Maharashtra",
   "availableDays": ["Monday", "Wednesday", "Friday"],
   "availableTimeSlots": ["09:00 AM", "09:30 AM", "10:00 AM"]
 }
