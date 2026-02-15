@@ -243,7 +243,7 @@ Environment variables are managed securely on Render.
 ### 🔑 Admin Login Credentials (For Demo)
 ```bash
 email : admin123@gmail.com
-password: adim123
+password: admim123
 ```
 ### 🔗 Useful Links
 
